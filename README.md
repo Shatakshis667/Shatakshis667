@@ -8,7 +8,7 @@
      - Selected for Engage'21 Mentorship program by Microsoft 
      - Grand Finalist in Smart India Hackathon 2020 (Software) 
      - Selected as Microsoft Student Learn Ambassador 
-- 👀 I’m interested in Software Development | Web Development | Competetive Programming
+- 👀 I’m interested in Software Development | Web Development | Competitive Programming
 
 
 <table align="center">
