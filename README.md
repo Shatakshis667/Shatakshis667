@@ -3,21 +3,14 @@
 - 🎓 I'm a final-year undergrad at National Institute of Technology, Kurukshetra pursuing Information Technology
 - 💼 Former SDE intern at LinkedIn'21, Goldman Sachs'21, Brillio'21 
 - 🏆 <table align="center">
-     <td>
-     -  Awarded DESIS Ascend Fellowship'20 by The D.E. Shaw Group
-     - Grace hopper Student Scholarship'21 by AnitaB.org
-     - Selected for Engage'21 Mentorship program by Microsoft
-     - Grand Finalist in Smart India Hackathon 2020 (Software)
-     - Selected as Microsoft Student Learn Ambassador
+     <tr> Awarded DESIS Ascend Fellowship'20 by The D.E. Shaw Group
+     <tr> Grace hopper Student Scholarship'21 by AnitaB.org
+     <tr> Selected for Engage'21 Mentorship program by Microsoft
+     <tr> Grand Finalist in Smart India Hackathon 2020 (Software)
+     <tr> Selected as Microsoft Student Learn Ambassador
      </table>
 - 👀 I’m interested in Software Development | Web Development | Competetive Programming
-- 📫 Connect with me: shatakshis667@gmail.com
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Shatakshis667&show_icons=true&theme=jolly" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Shatakshis667&theme=jolly" />
-</p>
-
+- 
 <table align="center">
  <th> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"/> Connect with me  :</th>
   <td>
