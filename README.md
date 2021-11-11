@@ -4,7 +4,7 @@
 - 💼 Former SDE intern at LinkedIn'21, Goldman Sachs'21, Brillio'21 
 - 🏆
      - Awarded DESIS Ascend Fellowship'20 by The D.E. Shaw Group
-     - Grace hopper Student Scholarship'21 by AnitaB.org 
+     - Awarded Grace hopper Student Scholarship'21 by AnitaB.org 
      - Selected for Engage'21 Mentorship program by Microsoft 
      - Grand Finalist in Smart India Hackathon 2020 (Software) 
      - Selected as Microsoft Student Learn Ambassador 
