@@ -1,3 +1,5 @@
+<p align="center"><img src="https://media.giphy.com/media/yl6yQcefy5GicjC0o1/giphy.gif" width="800px"></p>
+
 ## Hey! I'm Shatakshi. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 - 🎓 I'm a final-year undergrad at National Institute of Technology, Kurukshetra pursuing Information Technology
